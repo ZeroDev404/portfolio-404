@@ -1,5 +1,4 @@
-## Hey 👋, I'm Muhammad Ahsan!  
-  
+## Hey 👋, I'm Muhammad Ahsan!
 
 <a href="https://github.com/AhsanDev404" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,45 +9,39 @@
 <a href="https://linkedin.com/in/muhammad-ahsan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
+### Glad to see you here!
 
-### Glad to see you here!  
 Hi,
 
 I am Muhammad Ahsan, a MERN stack developer with more than 2 years of experience in the world of web development. I have extensive skills in developing E-Commerce platforms, Management Systems and Blogs along with a variety of other web-based applications.
 All my work is done using the best coding standards and conventions, making my applications scalable and understandable.
 
+<br/>
 
-<br/>  
+## Rapidfire
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning MERN Stack  
-  
+- 🌱 I’m currently learning MERN Stack
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="center" style="width: 100%" />
-</div>  
+</div>
 
+</td></tr></table>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+## Languages and Tools
 
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -87,43 +80,21 @@ All my work is done using the best coding standards and conventions, making my a
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## GitHub Stats
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=AhsanDev404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AhsanDev404&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanDev404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhsanDev404&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+## GitHub Trophies
 
-</td><td valign="top" width="50%">
+![](https://github-profile-trophy.vercel.app/?username=AhsanDev404&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanDev404&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## Profile View
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-
-### Profile View  
-![Profile views counter](https://komarev.com/ghpvc/?username=AhsanDev404&&style=flat-square)  
-  
-
-
-
-### Support Me  
-<div align="left">
-            <a href="https://www.buymeacoffee.com/ahsandev404" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>  
-
-<br/>  
+[![](https://visitcount.itsvg.in/api?id=dcode333&icon=0&color=0)](https://visitcount.itsvg.in)
