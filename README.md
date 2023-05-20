@@ -11,7 +11,7 @@ All my work is done using the best coding standards and conventions, making my a
 
 ## Rapidfire
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center" width="50%">
 
 - 🌱 I’m currently learning MERN Stack
 
