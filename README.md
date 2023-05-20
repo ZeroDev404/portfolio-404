@@ -1,16 +1,5 @@
 ## Hey 👋, I'm Muhammad Ahsan!
 
-<a href="https://github.com/AhsanDev404" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@ahsan_dev_404" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/muhammad-ahsan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-
 ### Glad to see you here!
 
 Hi,
@@ -84,12 +73,26 @@ All my work is done using the best coding standards and conventions, making my a
 
 <br/>
 
+## Socials
+
+<a href="https://github.com/AhsanDev404" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@ahsan_dev_404" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/muhammad-ahsan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
+<br/>
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=AhsanDev404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhsanDev404&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanDev404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<br>
+<br/>
 
 ## GitHub Trophies
 
@@ -97,4 +100,4 @@ All my work is done using the best coding standards and conventions, making my a
 
 ## Profile View
 
-[![](https://visitcount.itsvg.in/api?id=dcode333&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AhsanDev404&icon=0&color=0)](https://visitcount.itsvg.in)
