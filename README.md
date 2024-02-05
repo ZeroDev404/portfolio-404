@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhsanDev404&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AhsanDev404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?AhsanDev404&show_icons=true&theme=highcontrast&locale=en" alt="AhsanDev404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?AhsanDev404&theme=highcontrast" alt="AhsanDev404" /></p>
+<p> <img src="https://github-readme-streak-stats.herokuapp.com?user=AhsanDev404&theme=highcontrast" alt="GitHub Streak" /></p>
