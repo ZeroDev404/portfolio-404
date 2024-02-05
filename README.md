@@ -26,8 +26,9 @@
 <br>
 ## GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhsanDev404&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="AhsanDev404" /></p>
-![](https://github-readme-stats.vercel.app/api?username=AhsanDev404&theme=highcontra&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanDev404&theme=highcontra&hide_border=false&include_all_commits=true&count_private=true)
-<p> <img src="https://github-readme-streak-stats.herokuapp.com?user=AhsanDev404&theme=highcontrast" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhsanDev404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="AhsanDev404" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanDev404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="AhsanDev404" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=AhsanDev404&theme=highcontrast" alt="GitHub Streak" /></p>
 <br/>
+
 
